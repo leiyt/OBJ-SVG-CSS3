@@ -3,27 +3,25 @@
     <div class="left-bar">
       <ul class="items-bar">
         <li class="item">
-          <p class="title">菜单一</p>
+          <p class="title">THREE-D3</p>
           <ul class="memu">
-            <li class="menu-item">项目一</li>
-            <li class="menu-item">项目二</li>
-            <li class="menu-item">项目三</li>
+            <li class="menu-item"><router-link to="/obj">obj</router-link></li>
+            <li class="menu-item"><router-link to="/hello">obj正方体</router-link></li>
           </ul>
         </li>
         <li class="item">
-          <p class="title">菜单二</p>
+          <p class="title">CSS3</p>
           <ul class="memu">
-            <li class="menu-item">项目一</li>
-            <li class="menu-item">项目二</li>
-            <li class="menu-item">项目三</li>
+            <li class="menu-item"><router-link to="/egg">egg</router-link></li>
+            <li class="menu-item"><router-link to="/cat">cat</router-link></li>
           </ul>
         </li>
         <li class="item">
-          <p class="title">菜单三</p>
+          <p class="title">topology</p>
           <ul class="memu">
-            <li class="menu-item">项目一</li>
-            <li class="menu-item">项目二</li>
-            <li class="menu-item">项目三</li>
+            <li class="menu-item"><router-link to="/topo">流程图</router-link></li>
+            <li class="menu-item"><router-link to="/chart">dark布局</router-link></li>
+            <li class="menu-item"><router-link to="/map">GdMap</router-link></li>
           </ul>
         </li>
       </ul>
@@ -32,27 +30,27 @@
     <div class="right-bar">
       <ul class="items-bar">
         <li class="item">
-          <p class="title">菜单一</p>
+          <p class="title">CARD一</p>
           <ul class="memu">
-            <li class="menu-item">项目一</li>
-            <li class="menu-item">项目二</li>
-            <li class="menu-item">项目三</li>
+            <li class="menu-item">card一</li>
+            <li class="menu-item">card二</li>
+            <li class="menu-item">card三</li>
           </ul>
         </li>
         <li class="item">
-          <p class="title">菜单二</p>
+          <p class="title">CARD二</p>
           <ul class="memu">
-            <li class="menu-item">项目一</li>
-            <li class="menu-item">项目二</li>
-            <li class="menu-item">项目三</li>
+            <li class="menu-item">card一</li>
+            <li class="menu-item">card二</li>
+            <li class="menu-item">card三</li>
           </ul>
         </li>
         <li class="item">
-          <p class="title">菜单三</p>
+          <p class="title">CARD三</p>
           <ul class="memu">
-            <li class="menu-item">项目一</li>
-            <li class="menu-item">项目二</li>
-            <li class="menu-item">项目三</li>
+            <li class="menu-item">card一</li>
+            <li class="menu-item">card二</li>
+            <li class="menu-item">card三</li>
           </ul>
         </li>
       </ul>
@@ -67,10 +65,10 @@ import { DDSLoader } from "three/examples/jsm/loaders/DDSLoader.js";
 import { OBJLoader } from "three/examples/jsm/loaders/OBJLoader.js";
 import { MTLLoader } from "three/examples/jsm/loaders/MTLLoader.js";
 import { OrbitControls } from "three-orbitcontrols-ts";
-import * as dat from "dat.gui";
+// import * as dat from "dat.gui";
 
 export default {
-  data() {
+  data () {
     return {
       camera: {},
       scene: {},
@@ -80,11 +78,11 @@ export default {
       mesh: {}
     };
   },
-  mounted() {
+  mounted () {
     this.initD3();
   },
   methods: {
-    initD3() {
+    initD3 () {
       var scene = new THREE.Scene(); //创建场景
       scene.background = new THREE.Color(0x0088a8);
       // scene.fog = new THREE.Fog(0xcccccc, 100, 1500);
@@ -163,7 +161,7 @@ export default {
       scene.add(helper);
 
       //  // 实例化一个加载器;加载mtl、obj
-      let mtlLoader = new MTLLoader();
+      // let mtlLoader = new MTLLoader();
       let objLoader = new OBJLoader();
       // let jsonLoader = THREE.JSONLoader();]
       var manager = new THREE.LoadingManager();
@@ -256,7 +254,7 @@ export default {
         camera.updateProjectionMatrix();
         renderer.setSize(window.innerWidth - 10, window.innerHeight - 10);
       };
-      function animate() {
+      function animate () {
         cube.rotateY(0.03);
         renderer.render(scene, camera);
         requestAnimationFrame(animate);
