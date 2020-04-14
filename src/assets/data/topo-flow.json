@@ -1,0 +1,3737 @@
+{
+  "nodes": [
+    {
+      "id": "9d0ff744",
+      "name": "rectangle",
+      "tags": [],
+      "rect": {
+        "x": 367,
+        "y": 278,
+        "width": 150,
+        "height": 98,
+        "center": {
+          "x": 442,
+          "y": 327
+        },
+        "ex": 517,
+        "ey": 376
+      },
+      "lineWidth": 5,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#0a4332ff",
+      "fillStyle": "",
+      "font": {
+        "color": "#1a5844ff",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 10.374436908000003,
+        "lineHeight": "1",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "开始",
+      "textMaxLine": 1,
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "animatePlay": false,
+      "data": "",
+      "zRotate": 0,
+      "anchors": [
+        {
+          "x": 367,
+          "y": 327,
+          "direction": 4
+        },
+        {
+          "x": 442,
+          "y": 278,
+          "direction": 1
+        },
+        {
+          "x": 517,
+          "y": 327,
+          "direction": 2
+        },
+        {
+          "x": 442,
+          "y": 376,
+          "direction": 3
+        }
+      ],
+      "rotatedAnchors": [
+        {
+          "x": 367,
+          "y": 327,
+          "direction": 4
+        },
+        {
+          "x": 442,
+          "y": 278,
+          "direction": 1
+        },
+        {
+          "x": 517,
+          "y": 327,
+          "direction": 2
+        },
+        {
+          "x": 442,
+          "y": 376,
+          "direction": 3
+        }
+      ],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0.5,
+      "icon": "",
+      "iconFamily": "topology",
+      "iconSize": 0,
+      "iconColor": "#11493eff",
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 367,
+        "y": 351,
+        "width": 150,
+        "height": 24,
+        "center": {
+          "x": 442,
+          "y": 363
+        },
+        "ex": 517,
+        "ey": 375
+      },
+      "fullTextRect": {
+        "x": 367,
+        "y": 278,
+        "width": 150,
+        "height": 98,
+        "center": {
+          "x": 442,
+          "y": 327
+        },
+        "ex": 517,
+        "ey": 376
+      },
+      "iconRect": {
+        "x": 367,
+        "y": 278,
+        "width": 150,
+        "height": 73,
+        "center": {
+          "x": 442,
+          "y": 314.5
+        },
+        "ex": 517,
+        "ey": 351
+      },
+      "fullIconRect": {
+        "x": 367,
+        "y": 278,
+        "width": 150,
+        "height": 98,
+        "center": {
+          "x": 442,
+          "y": 327
+        },
+        "ex": 517,
+        "ey": 376
+      },
+      "dockWatchers": [
+        {
+          "x": 442,
+          "y": 327
+        },
+        {
+          "x": 257,
+          "y": 60
+        },
+        {
+          "x": 407,
+          "y": 60
+        },
+        {
+          "x": 407,
+          "y": 158
+        },
+        {
+          "x": 257,
+          "y": 158
+        }
+      ]
+    },
+    {
+      "id": "188cf16e",
+      "name": "circle",
+      "tags": [],
+      "rect": {
+        "x": 593,
+        "y": 96,
+        "width": 182,
+        "height": 72,
+        "center": {
+          "x": 684,
+          "y": 132
+        },
+        "ex": 775,
+        "ey": 168
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "#1c6699",
+      "font": {
+        "color": "#ffffffff",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 18,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "门未关报警",
+      "textMaxLine": 1,
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "data": "",
+      "zRotate": 0,
+      "anchors": [
+        {
+          "x": 593,
+          "y": 132,
+          "direction": 4
+        },
+        {
+          "x": 684,
+          "y": 96,
+          "direction": 1
+        },
+        {
+          "x": 775,
+          "y": 132,
+          "direction": 2
+        },
+        {
+          "x": 684,
+          "y": 168,
+          "direction": 3
+        },
+        {
+          "x": 691.9311725900369,
+          "y": 167.86300913130285,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 699.8019841676906,
+          "y": 167.45307910843948,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 707.5525331043294,
+          "y": 166.77332974640646,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 715.1238330426359,
+          "y": 165.8289343482927,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 722.4582618184037,
+          "y": 164.62708033331938,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 729.5,
+          "y": 163.1769145362398,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 736.1954557079451,
+          "y": 161.4894735944037,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 742.4936724814751,
+          "y": 159.5775999522832,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 748.3467170879758,
+          "y": 157.45584412271572,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 753.710044323827,
+          "y": 155.14035394871541,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 758.5428360302983,
+          "y": 152.64875170863766,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 762.8083117443839,
+          "y": 150,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 766.4740086203351,
+          "y": 147.21425742266518,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 769.5120284915176,
+          "y": 144.31272515972407,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 771.8992501923052,
+          "y": 141.31748562369074,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 773.6175055241109,
+          "y": 138.2513343960095,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 774.6537175263488,
+          "y": 135.1376067389157,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 774.6537175263488,
+          "y": 128.8623932610843,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 773.6175055241109,
+          "y": 125.7486656039905,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 771.8992501923052,
+          "y": 122.68251437630926,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 769.5120284915176,
+          "y": 119.68727484027593,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 766.4740086203351,
+          "y": 116.78574257733483,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 762.8083117443839,
+          "y": 114,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 758.5428360302983,
+          "y": 111.35124829136235,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 753.710044323827,
+          "y": 108.85964605128459,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 748.3467170879758,
+          "y": 106.54415587728428,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 742.4936724814751,
+          "y": 104.42240004771679,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 736.1954557079451,
+          "y": 102.5105264055963,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 729.5,
+          "y": 100.82308546376021,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 722.4582618184037,
+          "y": 99.3729196666806,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 715.1238330426359,
+          "y": 98.1710656517073,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 707.5525331043294,
+          "y": 97.22667025359354,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 699.8019841676906,
+          "y": 96.54692089156052,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 691.9311725900369,
+          "y": 96.13699086869715,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 676.0688274099631,
+          "y": 96.13699086869715,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 668.1980158323094,
+          "y": 96.54692089156052,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 660.4474668956707,
+          "y": 97.22667025359354,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 652.8761669573641,
+          "y": 98.1710656517073,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 645.5417381815963,
+          "y": 99.3729196666806,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 638.5,
+          "y": 100.82308546376021,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 631.8045442920549,
+          "y": 102.5105264055963,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 625.5063275185249,
+          "y": 104.42240004771679,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 619.6532829120242,
+          "y": 106.54415587728428,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 614.289955676173,
+          "y": 108.85964605128459,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 609.4571639697018,
+          "y": 111.35124829136234,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 605.1916882556161,
+          "y": 113.99999999999999,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 601.5259913796649,
+          "y": 116.78574257733483,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 598.4879715084824,
+          "y": 119.6872748402759,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 596.1007498076948,
+          "y": 122.68251437630926,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 594.3824944758891,
+          "y": 125.7486656039905,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 593.3462824736512,
+          "y": 128.8623932610843,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 593.3462824736512,
+          "y": 135.13760673891568,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 594.3824944758891,
+          "y": 138.25133439600947,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 596.1007498076948,
+          "y": 141.31748562369074,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 598.4879715084824,
+          "y": 144.3127251597241,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 601.5259913796648,
+          "y": 147.21425742266516,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 605.1916882556161,
+          "y": 150,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 609.4571639697017,
+          "y": 152.64875170863766,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 614.289955676173,
+          "y": 155.14035394871541,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 619.6532829120242,
+          "y": 157.4558441227157,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 625.5063275185249,
+          "y": 159.5775999522832,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 631.8045442920547,
+          "y": 161.4894735944037,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 638.5,
+          "y": 163.1769145362398,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 645.5417381815964,
+          "y": 164.62708033331938,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 652.876166957364,
+          "y": 165.8289343482927,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 660.4474668956706,
+          "y": 166.77332974640646,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 668.1980158323094,
+          "y": 167.45307910843948,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 676.0688274099631,
+          "y": 167.86300913130285,
+          "direction": 3,
+          "hidden": true
+        }
+      ],
+      "rotatedAnchors": [
+        {
+          "x": 593,
+          "y": 132,
+          "direction": 4
+        },
+        {
+          "x": 684,
+          "y": 96,
+          "direction": 1
+        },
+        {
+          "x": 775,
+          "y": 132,
+          "direction": 2
+        },
+        {
+          "x": 684,
+          "y": 168,
+          "direction": 3
+        },
+        {
+          "x": 691.9311725900369,
+          "y": 167.86300913130285,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 699.8019841676906,
+          "y": 167.45307910843948,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 707.5525331043294,
+          "y": 166.77332974640646,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 715.1238330426359,
+          "y": 165.8289343482927,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 722.4582618184037,
+          "y": 164.62708033331938,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 729.5,
+          "y": 163.1769145362398,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 736.1954557079451,
+          "y": 161.4894735944037,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 742.4936724814751,
+          "y": 159.5775999522832,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 748.3467170879758,
+          "y": 157.45584412271572,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 753.710044323827,
+          "y": 155.14035394871541,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 758.5428360302983,
+          "y": 152.64875170863766,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 762.8083117443839,
+          "y": 150,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 766.4740086203351,
+          "y": 147.21425742266518,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 769.5120284915176,
+          "y": 144.31272515972407,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 771.8992501923052,
+          "y": 141.31748562369074,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 773.6175055241109,
+          "y": 138.2513343960095,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 774.6537175263488,
+          "y": 135.1376067389157,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 774.6537175263488,
+          "y": 128.8623932610843,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 773.6175055241109,
+          "y": 125.7486656039905,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 771.8992501923052,
+          "y": 122.68251437630926,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 769.5120284915176,
+          "y": 119.68727484027593,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 766.4740086203351,
+          "y": 116.78574257733483,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 762.8083117443839,
+          "y": 114,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 758.5428360302983,
+          "y": 111.35124829136235,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 753.710044323827,
+          "y": 108.85964605128459,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 748.3467170879758,
+          "y": 106.54415587728428,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 742.4936724814751,
+          "y": 104.42240004771679,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 736.1954557079451,
+          "y": 102.5105264055963,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 729.5,
+          "y": 100.82308546376021,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 722.4582618184037,
+          "y": 99.3729196666806,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 715.1238330426359,
+          "y": 98.1710656517073,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 707.5525331043294,
+          "y": 97.22667025359354,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 699.8019841676906,
+          "y": 96.54692089156052,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 691.9311725900369,
+          "y": 96.13699086869715,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 676.0688274099631,
+          "y": 96.13699086869715,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 668.1980158323094,
+          "y": 96.54692089156052,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 660.4474668956707,
+          "y": 97.22667025359354,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 652.8761669573641,
+          "y": 98.1710656517073,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 645.5417381815963,
+          "y": 99.3729196666806,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 638.5,
+          "y": 100.82308546376021,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 631.8045442920549,
+          "y": 102.5105264055963,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 625.5063275185249,
+          "y": 104.42240004771679,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 619.6532829120242,
+          "y": 106.54415587728428,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 614.289955676173,
+          "y": 108.85964605128459,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 609.4571639697018,
+          "y": 111.35124829136234,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 605.1916882556161,
+          "y": 113.99999999999999,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 601.5259913796649,
+          "y": 116.78574257733483,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 598.4879715084824,
+          "y": 119.6872748402759,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 596.1007498076948,
+          "y": 122.68251437630926,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 594.3824944758891,
+          "y": 125.7486656039905,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 593.3462824736512,
+          "y": 128.8623932610843,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 593.3462824736512,
+          "y": 135.13760673891568,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 594.3824944758891,
+          "y": 138.25133439600947,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 596.1007498076948,
+          "y": 141.31748562369074,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 598.4879715084824,
+          "y": 144.3127251597241,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 601.5259913796648,
+          "y": 147.21425742266516,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 605.1916882556161,
+          "y": 150,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 609.4571639697017,
+          "y": 152.64875170863766,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 614.289955676173,
+          "y": 155.14035394871541,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 619.6532829120242,
+          "y": 157.4558441227157,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 625.5063275185249,
+          "y": 159.5775999522832,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 631.8045442920547,
+          "y": 161.4894735944037,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 638.5,
+          "y": 163.1769145362398,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 645.5417381815964,
+          "y": 164.62708033331938,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 652.876166957364,
+          "y": 165.8289343482927,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 660.4474668956706,
+          "y": 166.77332974640646,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 668.1980158323094,
+          "y": 167.45307910843948,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 676.0688274099631,
+          "y": 167.86300913130285,
+          "direction": 3,
+          "hidden": true
+        }
+      ],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": 0,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 638,
+        "y": 144,
+        "width": 91,
+        "height": 19,
+        "center": {
+          "x": 683.5,
+          "y": 153.5
+        },
+        "ex": 729,
+        "ey": 163
+      },
+      "fullTextRect": {
+        "x": 619,
+        "y": 106,
+        "width": 130,
+        "height": 51,
+        "center": {
+          "x": 684,
+          "y": 131.5
+        },
+        "ex": 749,
+        "ey": 157
+      },
+      "iconRect": {
+        "x": 666,
+        "y": 106,
+        "width": 36,
+        "height": 36,
+        "center": {
+          "x": 684,
+          "y": 124
+        },
+        "ex": 702,
+        "ey": 142
+      },
+      "dockWatchers": [
+        {
+          "x": 684,
+          "y": 132
+        },
+        {
+          "x": 1022,
+          "y": 98
+        },
+        {
+          "x": 1204,
+          "y": 98
+        },
+        {
+          "x": 1204,
+          "y": 170
+        },
+        {
+          "x": 1022,
+          "y": 170
+        }
+      ]
+    },
+    {
+      "id": "06e9f9dc",
+      "name": "rectangle",
+      "tags": [],
+      "rect": {
+        "x": 618,
+        "y": 263,
+        "width": 131,
+        "height": 57,
+        "center": {
+          "x": 683.5,
+          "y": 291.5
+        },
+        "ex": 749,
+        "ey": 320
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "#1c6699",
+      "font": {
+        "color": "#ffffff",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 18,
+        "lineHeight": "1",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "打开网站",
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "animatePlay": false,
+      "data": "",
+      "zRotate": 0,
+      "anchors": [
+        {
+          "x": 618,
+          "y": 291.5,
+          "direction": 4
+        },
+        {
+          "x": 683.5,
+          "y": 263,
+          "direction": 1
+        },
+        {
+          "x": 749,
+          "y": 291.5,
+          "direction": 2
+        },
+        {
+          "x": 683.5,
+          "y": 320,
+          "direction": 3
+        }
+      ],
+      "rotatedAnchors": [
+        {
+          "x": 618,
+          "y": 291.5,
+          "direction": 4
+        },
+        {
+          "x": 683.5,
+          "y": 263,
+          "direction": 1
+        },
+        {
+          "x": 749,
+          "y": 291.5,
+          "direction": 2
+        },
+        {
+          "x": 683.5,
+          "y": 320,
+          "direction": 3
+        }
+      ],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": 0,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 618,
+        "y": 305,
+        "width": 131,
+        "height": 14,
+        "center": {
+          "x": 683.5,
+          "y": 312
+        },
+        "ex": 749,
+        "ey": 319
+      },
+      "fullTextRect": {
+        "x": 618,
+        "y": 263,
+        "width": 131,
+        "height": 57,
+        "center": {
+          "x": 683.5,
+          "y": 291.5
+        },
+        "ex": 749,
+        "ey": 320
+      },
+      "iconRect": {
+        "x": 618,
+        "y": 263,
+        "width": 131,
+        "height": 42,
+        "center": {
+          "x": 683.5,
+          "y": 284
+        },
+        "ex": 749,
+        "ey": 305
+      },
+      "fullIconRect": {
+        "x": 618,
+        "y": 263,
+        "width": 131,
+        "height": 57,
+        "center": {
+          "x": 683.5,
+          "y": 291.5
+        },
+        "ex": 749,
+        "ey": 320
+      },
+      "dockWatchers": [
+        {
+          "x": 683.5,
+          "y": 291.5
+        },
+        {
+          "x": 1047,
+          "y": 265
+        },
+        {
+          "x": 1178,
+          "y": 265
+        },
+        {
+          "x": 1178,
+          "y": 322
+        },
+        {
+          "x": 1047,
+          "y": 322
+        }
+      ]
+    },
+    {
+      "id": "52afb04b",
+      "name": "circle",
+      "tags": [],
+      "rect": {
+        "x": 593,
+        "y": 719,
+        "width": 182,
+        "height": 72,
+        "center": {
+          "x": 684,
+          "y": 755
+        },
+        "ex": 775,
+        "ey": 791
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "#1c6699",
+      "font": {
+        "color": "#ffffffff",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 18,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "门未关报警",
+      "textMaxLine": 1,
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "data": "",
+      "zRotate": 0,
+      "anchors": [
+        {
+          "x": 593,
+          "y": 755,
+          "direction": 4
+        },
+        {
+          "x": 684,
+          "y": 719,
+          "direction": 1
+        },
+        {
+          "x": 775,
+          "y": 755,
+          "direction": 2
+        },
+        {
+          "x": 684,
+          "y": 791,
+          "direction": 3
+        },
+        {
+          "x": 691.9311725900369,
+          "y": 790.8630091313029,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 699.8019841676906,
+          "y": 790.4530791084395,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 707.5525331043294,
+          "y": 789.7733297464065,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 715.1238330426359,
+          "y": 788.8289343482927,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 722.4582618184037,
+          "y": 787.6270803333194,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 729.5,
+          "y": 786.1769145362398,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 736.1954557079451,
+          "y": 784.4894735944038,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 742.4936724814751,
+          "y": 782.5775999522832,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 748.3467170879758,
+          "y": 780.4558441227157,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 753.710044323827,
+          "y": 778.1403539487154,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 758.5428360302983,
+          "y": 775.6487517086376,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 762.8083117443839,
+          "y": 773,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 766.4740086203351,
+          "y": 770.2142574226651,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 769.5120284915176,
+          "y": 767.3127251597241,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 771.8992501923052,
+          "y": 764.3174856236908,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 773.6175055241109,
+          "y": 761.2513343960095,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 774.6537175263488,
+          "y": 758.1376067389157,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 774.6537175263488,
+          "y": 751.8623932610843,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 773.6175055241109,
+          "y": 748.7486656039905,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 771.8992501923052,
+          "y": 745.6825143763092,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 769.5120284915176,
+          "y": 742.6872748402759,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 766.4740086203351,
+          "y": 739.7857425773349,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 762.8083117443839,
+          "y": 737,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 758.5428360302983,
+          "y": 734.3512482913624,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 753.710044323827,
+          "y": 731.8596460512846,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 748.3467170879758,
+          "y": 729.5441558772843,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 742.4936724814751,
+          "y": 727.4224000477168,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 736.1954557079451,
+          "y": 725.5105264055962,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 729.5,
+          "y": 723.8230854637602,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 722.4582618184037,
+          "y": 722.3729196666806,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 715.1238330426359,
+          "y": 721.1710656517073,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 707.5525331043294,
+          "y": 720.2266702535935,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 699.8019841676906,
+          "y": 719.5469208915605,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 691.9311725900369,
+          "y": 719.1369908686971,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 676.0688274099631,
+          "y": 719.1369908686971,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 668.1980158323094,
+          "y": 719.5469208915605,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 660.4474668956707,
+          "y": 720.2266702535935,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 652.8761669573641,
+          "y": 721.1710656517073,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 645.5417381815963,
+          "y": 722.3729196666806,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 638.5,
+          "y": 723.8230854637602,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 631.8045442920549,
+          "y": 725.5105264055962,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 625.5063275185249,
+          "y": 727.4224000477168,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 619.6532829120242,
+          "y": 729.5441558772843,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 614.289955676173,
+          "y": 731.8596460512846,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 609.4571639697018,
+          "y": 734.3512482913624,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 605.1916882556161,
+          "y": 737,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 601.5259913796649,
+          "y": 739.7857425773349,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 598.4879715084824,
+          "y": 742.6872748402759,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 596.1007498076948,
+          "y": 745.6825143763092,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 594.3824944758891,
+          "y": 748.7486656039905,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 593.3462824736512,
+          "y": 751.8623932610843,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 593.3462824736512,
+          "y": 758.1376067389157,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 594.3824944758891,
+          "y": 761.2513343960095,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 596.1007498076948,
+          "y": 764.3174856236907,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 598.4879715084824,
+          "y": 767.3127251597241,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 601.5259913796648,
+          "y": 770.2142574226651,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 605.1916882556161,
+          "y": 773,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 609.4571639697017,
+          "y": 775.6487517086376,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 614.289955676173,
+          "y": 778.1403539487154,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 619.6532829120242,
+          "y": 780.4558441227157,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 625.5063275185249,
+          "y": 782.5775999522832,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 631.8045442920547,
+          "y": 784.4894735944036,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 638.5,
+          "y": 786.1769145362398,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 645.5417381815964,
+          "y": 787.6270803333194,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 652.876166957364,
+          "y": 788.8289343482927,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 660.4474668956706,
+          "y": 789.7733297464065,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 668.1980158323094,
+          "y": 790.4530791084395,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 676.0688274099631,
+          "y": 790.8630091313029,
+          "direction": 3,
+          "hidden": true
+        }
+      ],
+      "rotatedAnchors": [
+        {
+          "x": 593,
+          "y": 755,
+          "direction": 4
+        },
+        {
+          "x": 684,
+          "y": 719,
+          "direction": 1
+        },
+        {
+          "x": 775,
+          "y": 755,
+          "direction": 2
+        },
+        {
+          "x": 684,
+          "y": 791,
+          "direction": 3
+        },
+        {
+          "x": 691.9311725900369,
+          "y": 790.8630091313029,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 699.8019841676906,
+          "y": 790.4530791084395,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 707.5525331043294,
+          "y": 789.7733297464065,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 715.1238330426359,
+          "y": 788.8289343482927,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 722.4582618184037,
+          "y": 787.6270803333194,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 729.5,
+          "y": 786.1769145362398,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 736.1954557079451,
+          "y": 784.4894735944038,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 742.4936724814751,
+          "y": 782.5775999522832,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 748.3467170879758,
+          "y": 780.4558441227157,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 753.710044323827,
+          "y": 778.1403539487154,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 758.5428360302983,
+          "y": 775.6487517086376,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 762.8083117443839,
+          "y": 773,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 766.4740086203351,
+          "y": 770.2142574226651,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 769.5120284915176,
+          "y": 767.3127251597241,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 771.8992501923052,
+          "y": 764.3174856236908,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 773.6175055241109,
+          "y": 761.2513343960095,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 774.6537175263488,
+          "y": 758.1376067389157,
+          "direction": 0,
+          "hidden": true
+        },
+        {
+          "x": 774.6537175263488,
+          "y": 751.8623932610843,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 773.6175055241109,
+          "y": 748.7486656039905,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 771.8992501923052,
+          "y": 745.6825143763092,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 769.5120284915176,
+          "y": 742.6872748402759,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 766.4740086203351,
+          "y": 739.7857425773349,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 762.8083117443839,
+          "y": 737,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 758.5428360302983,
+          "y": 734.3512482913624,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 753.710044323827,
+          "y": 731.8596460512846,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 748.3467170879758,
+          "y": 729.5441558772843,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 742.4936724814751,
+          "y": 727.4224000477168,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 736.1954557079451,
+          "y": 725.5105264055962,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 729.5,
+          "y": 723.8230854637602,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 722.4582618184037,
+          "y": 722.3729196666806,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 715.1238330426359,
+          "y": 721.1710656517073,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 707.5525331043294,
+          "y": 720.2266702535935,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 699.8019841676906,
+          "y": 719.5469208915605,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 691.9311725900369,
+          "y": 719.1369908686971,
+          "direction": 1,
+          "hidden": true
+        },
+        {
+          "x": 676.0688274099631,
+          "y": 719.1369908686971,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 668.1980158323094,
+          "y": 719.5469208915605,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 660.4474668956707,
+          "y": 720.2266702535935,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 652.8761669573641,
+          "y": 721.1710656517073,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 645.5417381815963,
+          "y": 722.3729196666806,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 638.5,
+          "y": 723.8230854637602,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 631.8045442920549,
+          "y": 725.5105264055962,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 625.5063275185249,
+          "y": 727.4224000477168,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 619.6532829120242,
+          "y": 729.5441558772843,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 614.289955676173,
+          "y": 731.8596460512846,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 609.4571639697018,
+          "y": 734.3512482913624,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 605.1916882556161,
+          "y": 737,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 601.5259913796649,
+          "y": 739.7857425773349,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 598.4879715084824,
+          "y": 742.6872748402759,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 596.1007498076948,
+          "y": 745.6825143763092,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 594.3824944758891,
+          "y": 748.7486656039905,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 593.3462824736512,
+          "y": 751.8623932610843,
+          "direction": 2,
+          "hidden": true
+        },
+        {
+          "x": 593.3462824736512,
+          "y": 758.1376067389157,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 594.3824944758891,
+          "y": 761.2513343960095,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 596.1007498076948,
+          "y": 764.3174856236907,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 598.4879715084824,
+          "y": 767.3127251597241,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 601.5259913796648,
+          "y": 770.2142574226651,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 605.1916882556161,
+          "y": 773,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 609.4571639697017,
+          "y": 775.6487517086376,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 614.289955676173,
+          "y": 778.1403539487154,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 619.6532829120242,
+          "y": 780.4558441227157,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 625.5063275185249,
+          "y": 782.5775999522832,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 631.8045442920547,
+          "y": 784.4894735944036,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 638.5,
+          "y": 786.1769145362398,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 645.5417381815964,
+          "y": 787.6270803333194,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 652.876166957364,
+          "y": 788.8289343482927,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 660.4474668956706,
+          "y": 789.7733297464065,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 668.1980158323094,
+          "y": 790.4530791084395,
+          "direction": 3,
+          "hidden": true
+        },
+        {
+          "x": 676.0688274099631,
+          "y": 790.8630091313029,
+          "direction": 3,
+          "hidden": true
+        }
+      ],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": 0,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 638,
+        "y": 767,
+        "width": 91,
+        "height": 19,
+        "center": {
+          "x": 683.5,
+          "y": 776.5
+        },
+        "ex": 729,
+        "ey": 786
+      },
+      "fullTextRect": {
+        "x": 619,
+        "y": 729,
+        "width": 130,
+        "height": 51,
+        "center": {
+          "x": 684,
+          "y": 754.5
+        },
+        "ex": 749,
+        "ey": 780
+      },
+      "iconRect": {
+        "x": 666,
+        "y": 729,
+        "width": 36,
+        "height": 36,
+        "center": {
+          "x": 684,
+          "y": 747
+        },
+        "ex": 702,
+        "ey": 765
+      },
+      "dockWatchers": [
+        {
+          "x": 684,
+          "y": 755
+        },
+        {
+          "x": 1022,
+          "y": 721
+        },
+        {
+          "x": 1204,
+          "y": 721
+        },
+        {
+          "x": 1204,
+          "y": 793
+        },
+        {
+          "x": 1022,
+          "y": 793
+        }
+      ]
+    },
+    {
+      "id": "e5d95cc9",
+      "name": "diamond",
+      "tags": [],
+      "rect": {
+        "x": 594,
+        "y": 413,
+        "width": 180,
+        "height": 84,
+        "center": {
+          "x": 684,
+          "y": 455
+        },
+        "ex": 774,
+        "ey": 497
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "#1c6699",
+      "font": {
+        "color": "#ffffff",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 18,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "判定",
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "data": "",
+      "zRotate": 0,
+      "anchors": [
+        {
+          "x": 594,
+          "y": 455,
+          "direction": 4
+        },
+        {
+          "x": 684,
+          "y": 413,
+          "direction": 1
+        },
+        {
+          "x": 774,
+          "y": 455,
+          "direction": 2
+        },
+        {
+          "x": 684,
+          "y": 497,
+          "direction": 3
+        }
+      ],
+      "rotatedAnchors": [
+        {
+          "x": 594,
+          "y": 455,
+          "direction": 4
+        },
+        {
+          "x": 684,
+          "y": 413,
+          "direction": 1
+        },
+        {
+          "x": 774,
+          "y": 455,
+          "direction": 2
+        },
+        {
+          "x": 684,
+          "y": 497,
+          "direction": 3
+        }
+      ],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": 0,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 654,
+        "y": 460,
+        "width": 60,
+        "height": 23,
+        "center": {
+          "x": 684,
+          "y": 471.5
+        },
+        "ex": 714,
+        "ey": 483
+      },
+      "fullTextRect": {
+        "x": 639,
+        "y": 434,
+        "width": 90,
+        "height": 42,
+        "center": {
+          "x": 684,
+          "y": 455
+        },
+        "ex": 729,
+        "ey": 476
+      },
+      "iconRect": {
+        "x": 670,
+        "y": 449,
+        "width": 28,
+        "height": 28,
+        "center": {
+          "x": 684,
+          "y": 463
+        },
+        "ex": 698,
+        "ey": 477
+      },
+      "dockWatchers": [
+        {
+          "x": 684,
+          "y": 455
+        },
+        {
+          "x": 1023,
+          "y": 415
+        },
+        {
+          "x": 1203,
+          "y": 415
+        },
+        {
+          "x": 1203,
+          "y": 499
+        },
+        {
+          "x": 1023,
+          "y": 499
+        }
+      ]
+    },
+    {
+      "id": "72461667",
+      "name": "rectangle",
+      "tags": [],
+      "rect": {
+        "x": 610,
+        "y": 597,
+        "width": 148,
+        "height": 49,
+        "center": {
+          "x": 684,
+          "y": 621.5
+        },
+        "ex": 758,
+        "ey": 646
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "#1c6699",
+      "font": {
+        "color": "#ffffff",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 18,
+        "lineHeight": "1",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "打开网站",
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "animatePlay": false,
+      "data": "",
+      "zRotate": 0,
+      "anchors": [
+        {
+          "x": 610,
+          "y": 621.5,
+          "direction": 4
+        },
+        {
+          "x": 684,
+          "y": 597,
+          "direction": 1
+        },
+        {
+          "x": 758,
+          "y": 621.5,
+          "direction": 2
+        },
+        {
+          "x": 684,
+          "y": 646,
+          "direction": 3
+        }
+      ],
+      "rotatedAnchors": [
+        {
+          "x": 610,
+          "y": 621.5,
+          "direction": 4
+        },
+        {
+          "x": 684,
+          "y": 597,
+          "direction": 1
+        },
+        {
+          "x": 758,
+          "y": 621.5,
+          "direction": 2
+        },
+        {
+          "x": 684,
+          "y": 646,
+          "direction": 3
+        }
+      ],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": 0,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 610,
+        "y": 633,
+        "width": 148,
+        "height": 12,
+        "center": {
+          "x": 684,
+          "y": 639
+        },
+        "ex": 758,
+        "ey": 645
+      },
+      "fullTextRect": {
+        "x": 610,
+        "y": 597,
+        "width": 148,
+        "height": 49,
+        "center": {
+          "x": 684,
+          "y": 621.5
+        },
+        "ex": 758,
+        "ey": 646
+      },
+      "iconRect": {
+        "x": 610,
+        "y": 597,
+        "width": 148,
+        "height": 36,
+        "center": {
+          "x": 684,
+          "y": 615
+        },
+        "ex": 758,
+        "ey": 633
+      },
+      "fullIconRect": {
+        "x": 610,
+        "y": 597,
+        "width": 148,
+        "height": 49,
+        "center": {
+          "x": 684,
+          "y": 621.5
+        },
+        "ex": 758,
+        "ey": 646
+      },
+      "dockWatchers": [
+        {
+          "x": 684,
+          "y": 621.5
+        },
+        {
+          "x": 1039,
+          "y": 599
+        },
+        {
+          "x": 1187,
+          "y": 599
+        },
+        {
+          "x": 1187,
+          "y": 648
+        },
+        {
+          "x": 1039,
+          "y": 648
+        }
+      ]
+    },
+    {
+      "id": "c08e911e",
+      "name": "text",
+      "tags": [],
+      "rect": {
+        "x": 660,
+        "y": 193,
+        "width": 77,
+        "height": 22,
+        "center": {
+          "x": 698.5,
+          "y": 204
+        },
+        "ex": 737,
+        "ey": 215
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "",
+      "fillStyle": "#abc",
+      "font": {
+        "color": "#1c6699",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 20,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "1",
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "animatePlay": false,
+      "data": "",
+      "zRotate": 0,
+      "anchors": [],
+      "rotatedAnchors": [],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": 0,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 660,
+        "y": 209,
+        "width": 77,
+        "height": 5,
+        "center": {
+          "x": 698.5,
+          "y": 211.5
+        },
+        "ex": 737,
+        "ey": 214
+      },
+      "fullTextRect": {
+        "x": 660,
+        "y": 193,
+        "width": 77,
+        "height": 22,
+        "center": {
+          "x": 698.5,
+          "y": 204
+        },
+        "ex": 737,
+        "ey": 215
+      },
+      "iconRect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      }
+    },
+    {
+      "id": "9348c177",
+      "name": "text",
+      "tags": [],
+      "rect": {
+        "x": 674,
+        "y": 346,
+        "width": 50,
+        "height": 29,
+        "center": {
+          "x": 699,
+          "y": 360.5
+        },
+        "ex": 724,
+        "ey": 375
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "",
+      "fillStyle": "#abc",
+      "font": {
+        "color": "#1c6699",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 20,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "2",
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "animatePlay": false,
+      "data": "",
+      "zRotate": 0,
+      "anchors": [],
+      "rotatedAnchors": [],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": 0,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 674,
+        "y": 367,
+        "width": 50,
+        "height": 7,
+        "center": {
+          "x": 699,
+          "y": 370.5
+        },
+        "ex": 724,
+        "ey": 374
+      },
+      "fullTextRect": {
+        "x": 674,
+        "y": 346,
+        "width": 50,
+        "height": 29,
+        "center": {
+          "x": 699,
+          "y": 360.5
+        },
+        "ex": 724,
+        "ey": 375
+      },
+      "iconRect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      }
+    },
+    {
+      "id": "49790a44",
+      "name": "text",
+      "tags": [],
+      "rect": {
+        "x": 674,
+        "y": 517,
+        "width": 50,
+        "height": 29,
+        "center": {
+          "x": 699,
+          "y": 531.5
+        },
+        "ex": 724,
+        "ey": 546
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "",
+      "fillStyle": "#abc",
+      "font": {
+        "color": "#1c6699",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 20,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "3",
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "animatePlay": false,
+      "data": "",
+      "zRotate": 0,
+      "anchors": [],
+      "rotatedAnchors": [],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": 0,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 674,
+        "y": 538,
+        "width": 50,
+        "height": 7,
+        "center": {
+          "x": 699,
+          "y": 541.5
+        },
+        "ex": 724,
+        "ey": 545
+      },
+      "fullTextRect": {
+        "x": 674,
+        "y": 517,
+        "width": 50,
+        "height": 29,
+        "center": {
+          "x": 699,
+          "y": 531.5
+        },
+        "ex": 724,
+        "ey": 546
+      },
+      "iconRect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      }
+    },
+    {
+      "id": "fe0cc3cf",
+      "name": "text",
+      "tags": [],
+      "rect": {
+        "x": 674,
+        "y": 665,
+        "width": 50,
+        "height": 29,
+        "center": {
+          "x": 699,
+          "y": 679.5
+        },
+        "ex": 724,
+        "ey": 694
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "",
+      "fillStyle": "#abc",
+      "font": {
+        "color": "#1c6699",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 20,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "4",
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "animatePlay": false,
+      "data": "",
+      "zRotate": 0,
+      "anchors": [],
+      "rotatedAnchors": [],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": 0,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 674,
+        "y": 686,
+        "width": 50,
+        "height": 7,
+        "center": {
+          "x": 699,
+          "y": 689.5
+        },
+        "ex": 724,
+        "ey": 693
+      },
+      "fullTextRect": {
+        "x": 674,
+        "y": 665,
+        "width": 50,
+        "height": 29,
+        "center": {
+          "x": 699,
+          "y": 679.5
+        },
+        "ex": 724,
+        "ey": 694
+      },
+      "iconRect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      }
+    },
+    {
+      "id": "e6bf7ec0",
+      "name": "flowDocument",
+      "tags": [],
+      "rect": {
+        "x": 855,
+        "y": 107,
+        "width": 129,
+        "height": 70,
+        "center": {
+          "x": 919.5,
+          "y": 142
+        },
+        "ex": 984,
+        "ey": 177
+      },
+      "lineWidth": 3,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "",
+      "font": {
+        "color": "#1c6699",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 15,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "text": "解释文字",
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "data": "",
+      "zRotate": 0,
+      "anchors": [
+        {
+          "x": 855,
+          "y": 142,
+          "direction": 4
+        },
+        {
+          "x": 919.5,
+          "y": 107,
+          "direction": 1
+        },
+        {
+          "x": 984,
+          "y": 142,
+          "direction": 2
+        },
+        {
+          "x": 919.5,
+          "y": 167,
+          "direction": 3
+        }
+      ],
+      "rotatedAnchors": [
+        {
+          "x": 855,
+          "y": 142,
+          "direction": 4
+        },
+        {
+          "x": 919.5,
+          "y": 107,
+          "direction": 1
+        },
+        {
+          "x": 984,
+          "y": 142,
+          "direction": 2
+        },
+        {
+          "x": 919.5,
+          "y": 167,
+          "direction": 3
+        }
+      ],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": 0,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 855,
+        "y": 107,
+        "width": 129,
+        "height": 50,
+        "center": {
+          "x": 919.5,
+          "y": 132
+        },
+        "ex": 984,
+        "ey": 157
+      },
+      "fullTextRect": {
+        "x": 855,
+        "y": 107,
+        "width": 129,
+        "height": 50,
+        "center": {
+          "x": 919.5,
+          "y": 132
+        },
+        "ex": 984,
+        "ey": 157
+      },
+      "iconRect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      },
+      "dockWatchers": [
+        {
+          "x": 919.5,
+          "y": 142
+        },
+        {
+          "x": 1284,
+          "y": 109
+        },
+        {
+          "x": 1413,
+          "y": 109
+        },
+        {
+          "x": 1413,
+          "y": 179
+        },
+        {
+          "x": 1284,
+          "y": 179
+        }
+      ]
+    },
+    {
+      "id": "1a1e7d28",
+      "name": "people",
+      "tags": [],
+      "rect": {
+        "x": 397,
+        "y": 412,
+        "width": 61,
+        "height": 86,
+        "center": {
+          "x": 427.5,
+          "y": 455
+        },
+        "ex": 458,
+        "ey": 498
+      },
+      "lineWidth": 5,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "",
+      "font": {
+        "color": "#222",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 10.374436908000007,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "lineDashOffset": 0,
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "animateType": "",
+      "data": "",
+      "zRotate": 0,
+      "anchors": [
+        {
+          "x": 397,
+          "y": 455,
+          "direction": 4
+        },
+        {
+          "x": 427.5,
+          "y": 412,
+          "direction": 1
+        },
+        {
+          "x": 458,
+          "y": 455,
+          "direction": 2
+        },
+        {
+          "x": 427.5,
+          "y": 498,
+          "direction": 3
+        }
+      ],
+      "rotatedAnchors": [
+        {
+          "x": 397,
+          "y": 455,
+          "direction": 4
+        },
+        {
+          "x": 427.5,
+          "y": 412,
+          "direction": 1
+        },
+        {
+          "x": 458,
+          "y": 455,
+          "direction": 2
+        },
+        {
+          "x": 427.5,
+          "y": 498,
+          "direction": 3
+        }
+      ],
+      "animateDuration": 0,
+      "animateFrames": [],
+      "z": null,
+      "borderRadius": 0,
+      "iconSize": null,
+      "imageAlign": "center",
+      "bkType": 0,
+      "gradientAngle": 0,
+      "gradientRadius": 0.01,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingLeftNum": 0,
+      "paddingRightNum": 0,
+      "paddingTopNum": 0,
+      "paddingBottomNum": 0,
+      "textRect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      },
+      "fullTextRect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      },
+      "iconRect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      },
+      "dockWatchers": [
+        {
+          "x": 427.5,
+          "y": 455
+        },
+        {
+          "x": 1338,
+          "y": 414
+        },
+        {
+          "x": 1399,
+          "y": 414
+        },
+        {
+          "x": 1399,
+          "y": 500
+        },
+        {
+          "x": 1338,
+          "y": 500
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "05cd3b20",
+      "name": "line",
+      "tags": [],
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "",
+      "font": {
+        "color": "",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "locked": false,
+      "lineDashOffset": 0,
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "data": "",
+      "controlPoints": [],
+      "fromArrowSize": 6,
+      "toArrowSize": 5,
+      "borderWidth": 0,
+      "borderColor": "#000000",
+      "animateColor": "",
+      "animateSpan": 1,
+      "animatePos": 0,
+      "isAnimate": false,
+      "animateFromSize": 0,
+      "animateToSize": 0,
+      "animateDotSize": 3,
+      "from": {
+        "x": 684,
+        "y": 168,
+        "direction": 3,
+        "anchorIndex": 3,
+        "id": "188cf16e"
+      },
+      "to": {
+        "x": 683.5,
+        "y": 263,
+        "direction": 1,
+        "anchorIndex": 1,
+        "id": "06e9f9dc"
+      },
+      "fromArrow": "",
+      "toArrow": "triangleSolid",
+      "fromArrowColor": "#00a888",
+      "toArrowColor": "#1c6699"
+    },
+    {
+      "id": "0672bb3e",
+      "name": "line",
+      "tags": [],
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "",
+      "font": {
+        "color": "",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "locked": false,
+      "lineDashOffset": 0,
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "data": "",
+      "controlPoints": [],
+      "fromArrowSize": 5,
+      "toArrowSize": 5,
+      "borderWidth": 0,
+      "borderColor": "#000000",
+      "animateColor": "",
+      "animateSpan": 1,
+      "animatePos": 0,
+      "isAnimate": false,
+      "animateFromSize": 0,
+      "animateToSize": 0,
+      "animateDotSize": 3,
+      "from": {
+        "x": 683.5,
+        "y": 320,
+        "direction": 3,
+        "anchorIndex": 3,
+        "id": "06e9f9dc"
+      },
+      "to": {
+        "x": 684,
+        "y": 413,
+        "direction": 1,
+        "anchorIndex": 1,
+        "id": "e5d95cc9"
+      },
+      "fromArrow": "",
+      "toArrow": "triangleSolid",
+      "fromArrowColor": "#00a888",
+      "toArrowColor": "#1c6699"
+    },
+    {
+      "id": "defc3367",
+      "name": "line",
+      "tags": [],
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "",
+      "font": {
+        "color": "",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "locked": false,
+      "lineDashOffset": 0,
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "data": "",
+      "controlPoints": [],
+      "fromArrowSize": 5,
+      "toArrowSize": 5,
+      "borderWidth": 0,
+      "borderColor": "#000000",
+      "animateColor": "",
+      "animateSpan": 1,
+      "animatePos": 0,
+      "isAnimate": false,
+      "animateFromSize": 0,
+      "animateToSize": 0,
+      "animateDotSize": 3,
+      "from": {
+        "x": 684,
+        "y": 497,
+        "direction": 3,
+        "anchorIndex": 3,
+        "id": "e5d95cc9"
+      },
+      "to": {
+        "x": 684,
+        "y": 597,
+        "direction": 1,
+        "anchorIndex": 1,
+        "id": "72461667"
+      },
+      "fromArrow": "",
+      "toArrow": "triangleSolid",
+      "toArrowColor": "#1c6699",
+      "bkType": 0,
+      "imageAlign": "center",
+      "textRect": null
+    },
+    {
+      "id": "7b82134b",
+      "name": "line",
+      "tags": [],
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "",
+      "font": {
+        "color": "",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "locked": false,
+      "lineDashOffset": 0,
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "data": "",
+      "controlPoints": [],
+      "fromArrowSize": 5,
+      "toArrowSize": 5,
+      "borderWidth": 0,
+      "borderColor": "#000000",
+      "animateColor": "",
+      "animateSpan": 1,
+      "animatePos": 0,
+      "isAnimate": false,
+      "animateFromSize": 0,
+      "animateToSize": 0,
+      "animateDotSize": 3,
+      "from": {
+        "x": 684,
+        "y": 646,
+        "direction": 3,
+        "anchorIndex": 3,
+        "id": "72461667"
+      },
+      "to": {
+        "x": 684,
+        "y": 719,
+        "direction": 1,
+        "anchorIndex": 1,
+        "id": "52afb04b"
+      },
+      "fromArrow": "",
+      "toArrow": "triangleSolid",
+      "toArrowColor": "#1c6699"
+    },
+    {
+      "id": "9d2a1206",
+      "name": "line",
+      "tags": [],
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "center": {
+          "x": 0,
+          "y": 0
+        },
+        "ex": 0,
+        "ey": 0
+      },
+      "lineWidth": 1,
+      "rotate": 0,
+      "offsetRotate": 0,
+      "globalAlpha": 1,
+      "dash": 0,
+      "strokeStyle": "#1c6699",
+      "fillStyle": "",
+      "font": {
+        "color": "",
+        "fontFamily": "\"Hiragino Sans GB\", \"Microsoft YaHei\", \"Helvetica Neue\", Helvetica, Arial",
+        "fontSize": 12,
+        "lineHeight": 1.5,
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+        "textAlign": "center",
+        "textBaseline": "middle"
+      },
+      "animateStart": 0,
+      "animateCycleIndex": 0,
+      "locked": false,
+      "lineDashOffset": 0,
+      "textOffsetX": 0,
+      "textOffsetY": 0,
+      "data": "",
+      "controlPoints": [],
+      "fromArrowSize": 1,
+      "toArrowSize": 1,
+      "borderWidth": 0,
+      "borderColor": "#1c6699",
+      "animateColor": "",
+      "animateSpan": 1,
+      "animatePos": 0,
+      "isAnimate": false,
+      "animateFromSize": 0,
+      "animateToSize": 0,
+      "animateDotSize": 3,
+      "from": {
+        "x": 458,
+        "y": 455,
+        "direction": 4,
+        "anchorIndex": 2,
+        "id": "1a1e7d28"
+      },
+      "to": {
+        "x": 594,
+        "y": 455,
+        "direction": 4,
+        "anchorIndex": 0,
+        "id": "e5d95cc9"
+      },
+      "fromArrow": "",
+      "toArrow": "triangleSolid",
+      "toArrowColor": " #1c6699",
+      "bkType": 0,
+      "imageAlign": "center",
+      "textRect": null
+    }
+  ],
+  "lineName": "curve",
+  "fromArrowType": "",
+  "toArrowType": "triangleSolid",
+  "scale": 0.8645364090000005,
+  "locked": 0
+}
