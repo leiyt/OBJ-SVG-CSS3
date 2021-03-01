@@ -24,7 +24,7 @@
     "screenfull": "^5.0.0",
     "scss": "^0.2.4",
     "scss-loader": "0.0.1",
-    "three": "^0.112.1",
+    "three": "^0.125.0",
     "three-obj-mtl-loader": "^1.0.3",
     "three-orbitcontrols-ts": "^0.1.2",
     "topology-activity-diagram": "0.0.6",
